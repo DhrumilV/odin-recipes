@@ -6,7 +6,10 @@
 
 .title {
     text-align: center;
+    color: white;
     font-weight: bold;
+    background-color: #1e445e;
+    margin: 0px 200px;
 }
 
 .a {
